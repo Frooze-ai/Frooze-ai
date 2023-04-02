@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C family, SQL, JS, TS, Python etc.**
 
-- 📫 How to reach me **frooze9@outlook.com**
+- 📫 Reach me at **frooze9@outlook.com**
 
 - 📄 Know about my experiences(working on it) [Not available right now!](https://github.com/)
 
