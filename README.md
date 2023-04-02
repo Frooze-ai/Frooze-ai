@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frooze!</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **alt:V Rework**
+- 🔭 I’m currently working on **alt:V Rework (alt:VMP Connector)**
 
 - 👨‍💻 All of my projects are (not) available at [I'm working on it!](https://github.com/)
 
