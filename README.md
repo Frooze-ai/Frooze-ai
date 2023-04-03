@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Frooze!</h1>
 <h3 align="center">Software Engineer</h3>
 
+[![MIT License](https://svgur.com/i/rgK.svg)](https://choosealicense.com/licenses/mit/)
+
 - 🔭 I’m currently working on **alt:V Rework (alt:VMP Connector)**
 
 - 💬 Ask me about **C family, SQL, JS, TS, Python etc.**
