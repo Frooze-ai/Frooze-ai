@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **alt:V Rework (alt:VMP Connector)**
 
-- 👨‍💻 All of my projects are (not) available at [I'm working on it!](https://github.com/)
-
 - 💬 Ask me about **C family, SQL, JS, TS, Python etc.**
 
 - 📫 Reach me at **frooze9@outlook.com**
-
-- 📄 Know about my experiences(working on it) [Not available right now!](https://github.com/)
 
 - ⚡ Fun fact, **C++ is a programming language that is based on the C language and adds object-oriented programming features to it. However, the symbol "++" in the name doesn't actually come from the language's increment operator. The creator of the language, Bjarne Stroustrup, originally thought of C++ as "C with Classes," so he used the symbol "++" to represent the idea of an augmented version of C.**
 
