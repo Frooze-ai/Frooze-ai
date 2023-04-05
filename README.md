@@ -3,7 +3,7 @@
 
 [![MIT License](https://svgur.com/i/rgK.svg)]()
 
-- 🔭 I’m currently working on **alt:V Rework (alt:VMP Connector)**
+- 🔭 I’m currently working on **alt:VFXR (LSC)**
 
 - 💬 Ask me about **C family, SQL, JS, TS, Python etc.**
 
