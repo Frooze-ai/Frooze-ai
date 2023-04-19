@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frooze!</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **alt:VFXR (LSC)**
+- 🔭 I’m currently working on **SyncIV (LC:O)**
 
 - 💬 Ask me about **C family, SQL, JS, TS, Python etc.**
 
